@@ -80,4 +80,5 @@ endmodule
 ![image](https://github.com/naavaneetha/SR-FLIPFLOP-USING-CASE/assets/130537166/cb2a612b-3aa4-4412-a35b-0db85da505d7)
 
 **RESULTS**
+
 Implementation of SR flipflop using verilog was successful and validated their functionality using their functional tables.
